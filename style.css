@@ -1,0 +1,29 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 10%;
+    margin-top: 100px;
+}
+h1, h2, h3, h4{
+    /* border: 2px solid red; */
+    margin: 0;
+}
+h2{
+    font-size: 4rem;
+}
+h3{
+    font-size: 2rem;
+    margin-top: 60px;
+}
+h4{
+    position: absolute;
+    font-size: 7rem;
+    font-weight: 900;
+    left: 8%;
+    opacity: 0.3;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
