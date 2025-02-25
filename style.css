@@ -4,7 +4,8 @@
 body{
     margin: 15%;
     margin-top: 100px;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+    font-weight: 200;
 }
 h1, h2, h3, h4{
     /* border: 2px solid red; */
@@ -15,39 +16,49 @@ h2{
     padding-bottom: 50px;
 }
 h3{
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin-top: 60px;
 }
 h4{
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 .number{
     position: absolute;
     font-size: 7rem;
     font-weight: 900;
     left: 8%;
-    opacity: 0.3;
+    opacity: 0.7;
 }
 
 table, th, td{
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 .prototype{
     width: 300px;
 }
 #one{
-    color: #4281a4;
+    color: #70AEF9;
+    
 }
 #two{
-    color: #d4b483;
+    
+    color: #BBFFB2;
 }
 #three{
-    color: #2d3142;
+    color: #FF914C;
 }
 #four{
-    color: #c1666b;
+    color: #E8B2FE;
 }
 #five{
-    color: #48a9a6;
+    color: #FF1F20;
+    
+}
+#persona_img{
+    width: 700px;
+}
+.w{
+    width: 300px;
+    height: 600px;
 }
